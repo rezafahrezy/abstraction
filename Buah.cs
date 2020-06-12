@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace abstraction.Interface
+namespace abstraction.AbstractionClass
 {
     public interface IBuah
     {
